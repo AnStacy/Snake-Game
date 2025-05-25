@@ -1,7 +1,7 @@
 # 🐍 Snake Game
 
-![GitHub repo size](https://img.shields.io/github/repo-size/AnStacy/Snake-Game)
 ![GitHub last commit](https://img.shields.io/github/last-commit/AnStacy/Snake-Game)
+![GitHub repo size](https://img.shields.io/github/repo-size/AnStacy/Snake-Game)
 
 A modern, minimalistic implementation of the classic **Snake Game**, built using HTML, CSS, and JavaScript.  
 Control the snake, eat food, and try to survive as long as possible!
